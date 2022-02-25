@@ -1,0 +1,24 @@
+Successfully added a new product (Cake) to the list (Quantity = 40, Price = 10)
+Successfully added a new product (Pasta) to the list (Quantity = 22, Price = 30)
+Successfully added a new product (Steak) to the list (Quantity = 31, Price = 25)
+Successfully added a new product (Carpaccio) to the list (Quantity = 13, Price = 40)
+Successfully added a new product (Fish) to the list (Quantity = 10, Price = 20)
+Can't add Falafel since it's not in the menu
+- New table opened (5). first dish is Pasta, ordered 4 times
+
+--Successfully removed 1 Pastas from the table number 5
+Table number 1 hasn't ordered yet.
+
+
+		******************The bill********************
+		****************Table No.5*******************
+
+                    Dish	             Quantity	            Total Price
+                    Pasta		             3			        90 NIS
+
+
+**************************Total bill is:90 NIS********************************
+
+
+End of the day report:
+The most ordered dish of the day was Pasta, with a total quantity of 4 orders
